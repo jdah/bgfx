@@ -237,7 +237,7 @@ width="640" height="480" border="0" /></a>
 
 http://www.smithandwinston.com/ - Smith and Winston is an exploration twin stick
 shooter for PC, PS4 & XBoxOne arriving in late 2018. Smith and Winston features
-a massively destructable voxel world, rapid twin stick combat, physics puzzles
+a massively destructible voxel world, rapid twin stick combat, physics puzzles
 and Metroid style discovery.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Mr_L7KuiByU" 
@@ -527,3 +527,4 @@ width="640" height="480" border="0" /></a>
 	OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
 	OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
 	OF THE POSSIBILITY OF SUCH DAMAGE.
+
